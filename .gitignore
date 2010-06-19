@@ -1,0 +1,4 @@
+.DS_Store
+.zfproject.xml
+nbproject/*
+tests/log/*
