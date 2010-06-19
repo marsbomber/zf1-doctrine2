@@ -9,7 +9,7 @@ code from Giogio's [nakedphp](http://code.google.com/p/nakedphp/) project.
 The easy to use "Application_Api_Util_Bootstrap" class is the good work from [Leonard Dronkers](http://www.sreknord.net/).
 
 As the author of this project, I take no credit in all the good work done by Giogio and Leonard. 
-I simple put them together into a bare bone Zend Framework project. 
+I simply put them together into a bare bone Zend Framework project. 
 
 By putting this project on Github, I hope it could save other people some time in 
-finding ways to integration ZF 1 and Doctrine 2.
+finding ways to integrate ZF 1 and Doctrine 2.
