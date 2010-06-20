@@ -1,5 +1,8 @@
 # Zend Framework 1 Integration with Doctrine 2
 
+***This branch is an extension to the "master" branch. It shows how I setup a modular ZF 
+project with integration to Docrtine 2. The modular setup is inspired by [Leonard Dronkers](http://www.sreknord.net/).***
+
 This project demonstrates how you can integrate Zend Framework 1.10.X with 
 one of the most popular PHP ORM framework, Doctrine 2.
 
