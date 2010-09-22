@@ -2,3 +2,4 @@
 .zfproject.xml
 nbproject/*
 tests/log/*
+.idea
